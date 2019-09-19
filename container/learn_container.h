@@ -11,7 +11,11 @@ void lListItor();
 void lListReverseItor();
 void lListConst();
 void lListMaxSize();
-void lVisitList();
 
+void lVisitListItor();
+void lVisitListRef();
+void lVisitRand();
+void lAddEle();
+void lErase();
 #endif //CPP_PRIMER5_LEARN_CONTAINER_H
 
